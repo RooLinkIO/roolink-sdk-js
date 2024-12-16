@@ -23,7 +23,7 @@ Here's how to use the SDK in your node project:
 
 ### Import the SDK and Initialize
 ```js
-const RooLink = require('roolink-sdk');
+const RooLink = require('roolink-sdk').default;
 
 // Initialize the RooLink SDK
 const apiKey = "your_api_key"
