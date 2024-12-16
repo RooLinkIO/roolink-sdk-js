@@ -16,7 +16,7 @@ RooLink SDK is a NodeJS library designed for seamless interaction with the RooLi
 Install the SDK via npm:
 
 ```shell
-
+npm install roolink-sdk
 ```
 Quick Start
 Here's how to use the SDK in your node project:
